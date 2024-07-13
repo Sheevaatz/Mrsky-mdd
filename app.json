@@ -1,7 +1,7 @@
 {
   "name": "Mrsky-md",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://github.com/mrsky-cyber/Mrsky-md/blob/main/lib/assets/logo.png?raw=true",
+  "logo": "https://github.com/Mrsky02/Mrsky-md/blob/main/lib/assets/logo.png?raw=true",
   "keywords": ["MRSKY-MD", "MRSKY", "MRSKY MD BOT","MRSKY MD","mrsky","mrskytech"],
   "success_url": "/",
   "stack": "container",
@@ -62,7 +62,7 @@
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
       "required": false,
-      "value": "available"
+      "value": "composing"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
