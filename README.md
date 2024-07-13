@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/mrsky-cyber/Mrsky-md">
+  <a href="https://github.com/Mrsky02/Mrsky-md">
     <img alt="Mr-Sky docs" height="300" src="https://telegra.ph/file/504b26be1bb9cf690261b.jpg">
   </a>
 </p>
@@ -27,28 +27,28 @@
   <a href="https://wa.me/+255715654328?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Mrsky-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="Mrsky-md is free to use" href="https://github.com/mrsky-cyber/Mrsky-md" target="_blank">
+  <a aria-label="Mrsky-md is free to use" href="https://github.com/Mrsky02/Mrsky-md" target="_blank">
     <img alt="Mr-Sky-tech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{mrsky-cyber}/count.svg" alt="Mrsky-md :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Mrsky02}/count.svg" alt="Mrsky-md :: Visitor's Count" /></p>
 ---
   
 </p>
 <p align="center">
-<a href="https://github.com/mrsky-cyber"><img title="Author" src="https://img.shields.io/badge/Mrsky-md-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Mrsky02"><img title="Author" src="https://img.shields.io/badge/Mrsky-md-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/mrsky-cyber?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Mrsky-cyber?label=Followers&style=social"></a>
+<a href="https://github.com/Mrsky02?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Mrsky02?label=Followers&style=social"></a>
 
 
 <a lign="left">
-  <a href="https://github.com/mrsky-cyber/Mrsky-md/fork">
-    <img src="https://img.shields.io/github/forks/mrsky-ccyber/Mrsky-md?label=Fork&style=social">
+  <a href="https://github.com/Mrsky02/Mrsky-md/fork">
+    <img src="https://img.shields.io/github/forks/Mrsky02/Mrsky-md?label=Fork&style=social">
   <p align="left"> 
-  <a href="https://github.com/mrsky-cyber/Mrsky-md/stargazers">
-    <img src="https://img.shields.io/github/stars/mrsky-cyber/Mrsky-md?style=social">
+  <a href="https://github.com/Mrsky02/Mrsky-md/stargazers">
+    <img src="https://img.shields.io/github/stars/Mrsky02/Mrsky-md?style=social">
 
 <p align="center"> Mrsky-md uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
@@ -60,21 +60,21 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/mrsky-cyber/Mrsky-md"><b>Mr-Sky-md</b></a> Support Deploy On...
+  <a href="https://github.com/Mrsky02/Mrsky-md"><b>Mr-Sky-md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/mrsky-cyber/Mrsky-md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/Mrsky02/Mrsky-md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
   <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2mrsky-cyber%2Mrsky-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://dashboard.heroku.com/new?templateMrsky02%2Mrsky-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://Mrsky-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/mrsky-cyber/Mrsky-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255715654328&env[MONGODB_URI]&&env[OWNER_NAME]=mrsky ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Venocyber ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=MRSKY&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Mrsky-tech&env[KOYEB_NAME]=Mrsky-md&env[SUDO]=null&env[THUMB_IMAGE]=https://github.com/mrsky-cyber/Mrsk-md"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Mrsky02/Mrsky-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255715654328&env[MONGODB_URI]&&env[OWNER_NAME]=mrsky ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Venocyber ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=MRSKY&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Mrsky-tech&env[KOYEB_NAME]=mrsky-md&env[SUDO]=null&env[THUMB_IMAGE]=https://github.com/Mrsky02/Mrsk-md"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
   <a href="https://youtube.com/shorts/b6zv1n6DTEM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
-<p align="center">Need help? please create an <a href="https://github.com/mrsky-cyber/Mrsk-md/issues">issue</a></p>
+<p align="center">Need help? please create an <a href="https://github.com/Mrsky02/Mrsk-md/issues">issue</a></p>
 
  
 
@@ -103,7 +103,7 @@
 
 <h3>Mr-Sky-MD Stats</h3>
 
-![Venocyber-Md Stats](https://github-readme-stats.vercel.app/api/pin/?username=mrsky-cyber&repo=Mrsky-md&show_owner=true&theme=dark)
+![Venocyber-Md Stats](https://github-readme-stats.vercel.app/api/pin/?username=Mrsky02&repo=Mrsky-md&show_owner=true&theme=dark)
 
 
     
@@ -140,7 +140,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
 ### I Am
-- [MR Sky Tech](https://github.com/mrsky-cyber) 
+- [MR Sky Tech](https://github.com/Mrsky02) 
 
 # please click the following button  and  fill the details to support my project
 
@@ -155,7 +155,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
    
 ## 
 👇👇👇👇👇👇👇👇
-- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/mrsky-cyber/Mrsky-md)
+- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Mrsky02/Mrsky-md)
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
