@@ -9,8 +9,11 @@
 ### Step to deploy
 <hr style="color:gold;">
 <br>
+click 👇
 
-1, <b style="color:red;">Create a new repository</b>
+0, **Use This Template**
+
+1, <b>Create a new repository</b>
 
 <br>
 
