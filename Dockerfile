@@ -1,13 +1,13 @@
 FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/mrsky-cyber/Mrsky-md.git /root/mrsky-cyber
+RUN git clone https://github.com/Mrsky02/Mrsky-md.git /root/Mrsky02
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
-RUN rm -rf /root/mrsky-cyber/node_modules
+RUN rm -rf /root/Mrsky02/node_modules
 
 # Install dependencies
-WORKDIR /root/mrsky-cyber
+WORKDIR /root/Mrsky02
 RUN npm install
 
 # Add additional Steps To Run...
